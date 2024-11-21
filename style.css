@@ -7,7 +7,7 @@ body{
 
 .allcenter{
     background-color: rgb(255, 228, 202);
-    width: 800px;
+    width: 500px;
     margin-left: auto;
     margin-right: auto;
     height: 1000px;
@@ -16,7 +16,7 @@ body{
 
 .header{
     background-color: rgb(112, 147, 147);
-    width: 780px;
+    width: 480px;
     height: 70px;
     margin-left: auto;
     margin-right: auto;
@@ -41,7 +41,7 @@ img{
 
 .sidebar{
     background-color: rgb(112, 113, 147);
-    width: 780px;
+    width: 480px;
     height: 40px;
     margin-top: 5px;
     margin-left: auto;
