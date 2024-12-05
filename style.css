@@ -115,6 +115,7 @@ a{
     text-align: center;
     font-size: 22px;
     border: 1px solid black;
+    border-radius: 6px;
     max-height: auto;
 }
 
