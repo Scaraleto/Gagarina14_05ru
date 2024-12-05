@@ -14,6 +14,7 @@ body{
     margin-right: auto;
     padding-top: 10px;
     max-height:auto;  
+    padding-bottom: 10px;
 }
 
 .header{
@@ -86,3 +87,34 @@ a{
     height: auto;
     max-height:auto;
 }
+
+/* Комментарий *//* Комментарий *//* Комментарий *//* Комментарий *//* Комментарий *//* Комментарий */
+
+.body-rules{
+    margin: 0;
+    background-color: rgb(255, 239, 224);
+    width:100%; 
+    overflow-x:hidden;
+    max-height:auto;
+}
+
+.rules-main{
+    background-color: rgb(255, 239, 224);
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 10px;
+    max-height:auto;  
+}
+
+.rules{
+    width: 480px;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    font-size: 22px;
+    border: 1px solid black;
+    max-height: auto;
+}
+
