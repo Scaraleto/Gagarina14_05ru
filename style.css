@@ -3,9 +3,7 @@ body{
     background-color: #b8b8b8;
     width:100%; 
     overflow-x:hidden;
-    max-height:auto;
-
-    
+    max-height:auto; 
 }
 
 
@@ -15,8 +13,7 @@ body{
     margin-left: auto;
     margin-right: auto;
     padding-top: 10px;
-    max-height:auto;
-    
+    max-height:auto;  
 }
 
 .header{
